@@ -36,3 +36,4 @@ foreach (string sor in sorok)
     }
 }
 Console.WriteLine();
+Console.WriteLine($"Regisztrált csomagok száma a rendszerben: {Csomag.OsszesCsomagSzam}");
